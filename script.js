@@ -5,7 +5,7 @@ const nomeCompleto = "Adriana Gutierrez"
 let idade = 42
 
 // Crie uma variável com o ano atual e subtraia pelo número que você guardou;
-let anoAtual = 2022 // ou é assim? let anoAtual = 2022 - idade
+let anoAtual = 2022
 let resultado = anoAtual - idade
 
 // Agora mostre no console o resultado da soma das duas variáveis guardadas anteriormente;
